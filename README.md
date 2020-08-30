@@ -2,5 +2,5 @@
 
 Builtin with python, pure scrap from <a href="https://mbasic.facebook.com">Facebook</a><br>
 But it's Beta Version<br>
-![ZEFT PICTURES.](https://github.com/asmin-dev/Zeft/blob/master/zeft.jpg?raw
+![ZEFT PICTURES](https://github.com/asmin-dev/Zeft/blob/master/zeft.jpg?raw
 =true)
